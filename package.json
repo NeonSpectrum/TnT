@@ -21,7 +21,7 @@
     "moment": "^2.21.0",
     "mongodb": "^3.0.4",
     "socket.io": "^2.0.4",
-    "xlsx": "^0.12.4"
+    "xlsx": "^0.17.0"
   },
   "nodemonConfig": {
     "watch": "app.js"
